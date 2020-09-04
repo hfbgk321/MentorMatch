@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-// hello jacky pt 2
+// hello jacky - zhimiing
 function App() {
   return (
     <div className="App">
